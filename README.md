@@ -1,4 +1,4 @@
-# Assignment_task_avanti
+# Task explanation:
 This terrafrom snippet will create the aws Lambda function along with the api gateway, that api will work as a String Replacer which will use a string as input and find and replace for certain words and outputs the result.
 
 After successfully running the "terraform apply" the Lambda function will be created along with the api gateway and Api will be accessible with POST method.
